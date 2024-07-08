@@ -1,7 +1,7 @@
 ﻿@page "/" 
 @inject IJSRuntime JSRuntime 
 
-<h1>Display Google Map</h1> 
+<h1>ゴミロケーションをアップロードしましょう。</h1> 
 <div id="map" style="height:500px;width:100%;"> 
 </div> 
 
@@ -14,6 +14,6 @@
                 "import", "./Script.js"
             );
             await module.InvokeVoidAsync("initialize", null); 
-        } 
+        }
     } 
 }
