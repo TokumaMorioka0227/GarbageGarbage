@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageGarbage", "GarbageGarbage\GarbageGarbage.csproj", "{DE2AF7BD-3A10-4B87-B732-4FE352A2563A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageGarbageAPI", "GarbageGarbageAPI\GarbageGarbageAPI.csproj", "{5323DC0D-C69B-4280-BE3F-128AC944FF7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE2AF7BD-3A10-4B87-B732-4FE352A2563A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE2AF7BD-3A10-4B87-B732-4FE352A2563A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE2AF7BD-3A10-4B87-B732-4FE352A2563A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5323DC0D-C69B-4280-BE3F-128AC944FF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5323DC0D-C69B-4280-BE3F-128AC944FF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5323DC0D-C69B-4280-BE3F-128AC944FF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5323DC0D-C69B-4280-BE3F-128AC944FF7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

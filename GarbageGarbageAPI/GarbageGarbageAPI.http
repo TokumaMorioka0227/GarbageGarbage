@@ -1,0 +1,6 @@
+@GarbageGarbageAPI_HostAddress = http://localhost:5289
+
+GET {{GarbageGarbageAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
